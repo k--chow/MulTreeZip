@@ -1,0 +1,8 @@
+command: multreezip.exe -i MammalianDinosaur.newick -c -o MammDinoOut.mtz
+input file: MammalianDinosaur.newick
+output file: MammDinoOut.mtz
+seed: 1369423444
+Reading input trees: 1..10..100..1000..7319
+Input trees: 7319
+Unweighted
+Taxa: 456

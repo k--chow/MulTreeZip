@@ -1,0 +1,14 @@
+command: multreezip.exe -i testRel.newick -c -o testRelO.mtz
+input file: testRel.newick
+output file: testRelO.mtz
+seed: 1405109945
+Reading input trees: 1..5
+Input trees: 5
+Unweighted trees...
+Taxa: 6
+Processing trees...
+Unique Trees: 5
+
+Compression successful!!!
+
+Total elapsed time: 0s 
